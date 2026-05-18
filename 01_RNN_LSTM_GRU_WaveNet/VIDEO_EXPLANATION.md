@@ -1,35 +1,29 @@
-# Video Explanation — RNN / LSTM / GRU / WaveNet
+# Video Explanation — All Four Colabs
 
-A recorded video walkthrough of the notebook
-[`final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb`](final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb),
-explaining the code and outputs cell by cell.
+A single recorded video walkthrough that covers **all four notebooks** in this
+repository, explaining the code and outputs section by section.
 
 ## Watch the video
 
-**▶ [RNN / LSTM / GRU / WaveNet — Code Walkthrough](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing)**
-
-> If the link asks for permission, the video is shared from Google Drive — make
-> sure link sharing is set to "Anyone with the link can view."
+**▶ [Deep Learning Colabs — Full Video Walkthrough](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing)**
 
 ## What the video covers
 
-The walkthrough builds and compares four sequence models on the same
-character-level language-modeling task:
+The video walks through all four notebooks in order:
 
-| Part | Topic |
-|------|-------|
-| Setup & data | Imports, the text corpus, character vocabulary, the sliding-window dataset |
-| Training tools | The shared training loop (with gradient clipping) and the text generator |
-| Vanilla RNN | Simplest recurrence; ~33K parameters |
-| LSTM | Cell state + 3 gates; ~107K parameters |
-| GRU | 2 gates, lighter than LSTM; ~83K parameters |
-| Deep LSTM & temperature | Stacked layers, dropout, and the temperature experiment |
-| WaveNet | Dilated causal convolutions; parallel training |
-| Grand comparison | Loss, speed, parameter count, and generated-text comparison |
+| Section | Notebook | Topic |
+|---------|----------|-------|
+| 1 | [RNN / LSTM / GRU / WaveNet](final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | Four sequence models compared on character-level language modeling |
+| 2 | [10 Years of Deep Learning in NLP](../02_NLP_Deep_Learning_10_Years/final_nlp_deep_learning_10_years_tutorial.ipynb) | Tokenization, embeddings, attention, the Transformer, LLMs |
+| 3 | [Vision Transformers](../03_Vision_Transformers/final_vision_transformers_tutorial.ipynb) | ViT from scratch, plus CLIP, DINOv2, SAM, Swin, ConvNeXt |
+| 4 | [Graph Neural Networks](../04_Graph_Neural_Networks/final_gnn_fundamentals_tutorial.ipynb) | Graphs, message passing, and a GCN in NumPy and PyTorch |
 
 ## Related files
 
-- **Notebook (executed, with outputs):** [`final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb`](final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb)
-- **Written walkthrough (cell-by-cell):** [`EXPLANATION.md`](EXPLANATION.md)
-- **Open in Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/01_RNN_LSTM_GRU_WaveNet/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb)
-- **Back to repository home:** [README](../README.md)
+Each notebook also has a written, cell-by-cell walkthrough:
+
+- [RNN / LSTM / GRU / WaveNet — EXPLANATION.md](EXPLANATION.md)
+- [NLP — EXPLANATION.md](../02_NLP_Deep_Learning_10_Years/EXPLANATION.md)
+- [Vision Transformers — EXPLANATION.md](../03_Vision_Transformers/EXPLANATION.md)
+- [Graph Neural Networks — EXPLANATION.md](../04_Graph_Neural_Networks/EXPLANATION.md)
+- [Back to repository home](../README.md)

@@ -10,9 +10,9 @@ vision, and graphs:
 | # | Topic | Notebook | Open in Colab | Walkthrough | Video |
 |---|-------|----------|---------------|-------------|-------|
 | 1 | RNN / LSTM / GRU / WaveNet — Sequence Models Zero to Hero | [notebook](01_RNN_LSTM_GRU_WaveNet/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/01_RNN_LSTM_GRU_WaveNet/final_rnn_lstm_gru_wavenet_zero_to_hero.ipynb) | [EXPLANATION.md](01_RNN_LSTM_GRU_WaveNet/EXPLANATION.md) | [▶ Watch](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing) |
-| 2 | 10 Years of Deep Learning in NLP — Words to ChatGPT | [notebook](02_NLP_Deep_Learning_10_Years/final_nlp_deep_learning_10_years_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/02_NLP_Deep_Learning_10_Years/final_nlp_deep_learning_10_years_tutorial.ipynb) | [EXPLANATION.md](02_NLP_Deep_Learning_10_Years/EXPLANATION.md) | _add link_ |
-| 3 | Vision Transformers — ViT, CLIP, DINOv2, SAM | [notebook](03_Vision_Transformers/final_vision_transformers_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/03_Vision_Transformers/final_vision_transformers_tutorial.ipynb) | [EXPLANATION.md](03_Vision_Transformers/EXPLANATION.md) | _add link_ |
-| 4 | Graph Neural Networks — Fundamentals & GCNs | [notebook](04_Graph_Neural_Networks/final_gnn_fundamentals_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/04_Graph_Neural_Networks/final_gnn_fundamentals_tutorial.ipynb) | [EXPLANATION.md](04_Graph_Neural_Networks/EXPLANATION.md) | _add link_ |
+| 2 | 10 Years of Deep Learning in NLP — Words to ChatGPT | [notebook](02_NLP_Deep_Learning_10_Years/final_nlp_deep_learning_10_years_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/02_NLP_Deep_Learning_10_Years/final_nlp_deep_learning_10_years_tutorial.ipynb) | [EXPLANATION.md](02_NLP_Deep_Learning_10_Years/EXPLANATION.md) | [▶ Watch](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing) |
+| 3 | Vision Transformers — ViT, CLIP, DINOv2, SAM | [notebook](03_Vision_Transformers/final_vision_transformers_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/03_Vision_Transformers/final_vision_transformers_tutorial.ipynb) | [EXPLANATION.md](03_Vision_Transformers/EXPLANATION.md) | [▶ Watch](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing) |
+| 4 | Graph Neural Networks — Fundamentals & GCNs | [notebook](04_Graph_Neural_Networks/final_gnn_fundamentals_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NMemane1/CMPE258-RNNs-Curated-Colab-Explainations-DeepLearning/blob/main/04_Graph_Neural_Networks/final_gnn_fundamentals_tutorial.ipynb) | [EXPLANATION.md](04_Graph_Neural_Networks/EXPLANATION.md) | [▶ Watch](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing) |
 
 > The "Open in Colab" badges open each notebook **directly from this GitHub repo** —
 > no Drive copy required. In Colab you can then use *File → Save a copy in Drive* if
@@ -20,17 +20,22 @@ vision, and graphs:
 
 ---
 
-## Video Walkthroughs
+## Video Walkthrough
 
-One video per notebook, walking through the code **block by block** and explaining
-both the code and its output.
+A single video walks through **all four notebooks**, code block by block,
+explaining both the code and its output.
 
-| Notebook | Video | Details |
-|----------|-------|---------|
-| 1 — RNN / LSTM / GRU / WaveNet | [▶ Watch the walkthrough](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing) | [VIDEO_EXPLANATION.md](01_RNN_LSTM_GRU_WaveNet/VIDEO_EXPLANATION.md) |
-| 2 — 10 Years of NLP | _link to be added_ | — |
-| 3 — Vision Transformers | _link to be added_ | — |
-| 4 — Graph Neural Networks | _link to be added_ | — |
+**▶ [Watch the full walkthrough](https://docs.google.com/videos/d/1B5XGMrUgGmmw8hXGVxwL1L7h1M6DACpeQYDy7Hiq1lY/edit?usp=sharing)**
+
+See [VIDEO_EXPLANATION.md](01_RNN_LSTM_GRU_WaveNet/VIDEO_EXPLANATION.md) for the
+section-by-section breakdown of what the video covers.
+
+| Section | Notebook |
+|---------|----------|
+| 1 | RNN / LSTM / GRU / WaveNet |
+| 2 | 10 Years of Deep Learning in NLP |
+| 3 | Vision Transformers |
+| 4 | Graph Neural Networks |
 
 ---
 
